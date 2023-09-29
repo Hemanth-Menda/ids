@@ -5,9 +5,9 @@
 - Status : Under Development
 - First Commit: 29 Sept 2023
  
-- ids is a Python library that is intended to implement Python data structures instantaneously
-- this is a development module and never intended for serious projects
-- the project is intended to implement multiple complex datastructures in python such as the
+ ids is a Python library that is intended to implement Python data structures instantaneously
+ this is a development module and never intended for serious projects
+ the project is intended to implement multiple complex datastructures in python such as the
 -       Linked List
 -       Doubly Linked List
 -       circular Linked List
